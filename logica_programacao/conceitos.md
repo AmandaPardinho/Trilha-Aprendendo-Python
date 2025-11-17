@@ -19,3 +19,7 @@
             - somar os valores inseridos (p1 + p2 + p3 + p4)
             - dividir o resultado da soma por 4
         - saída: média
+- variáveis: espaço reservado na memória do computados para armazenar um tipoespecífico de dado
+    - só pode armazenar um único valor de cada vez
+    - podem ser de quatro tipos: numéricas, caracteres, alfanuméricas ou lógicas
+
