@@ -20,3 +20,4 @@ while(True):
         print("Usuário incorreto.")
     elif(usuario_digitado == usuario_correto and senha_digitada != senha_correta):
         print("Senha incorreta.")
+
